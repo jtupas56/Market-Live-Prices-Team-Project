@@ -1,0 +1,45 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.top {
+    width: 100%;
+    height: 70px;
+    background-color: #1f2833;
+}
+
+.top ul {
+    float: right;
+}
+
+.top ul li {
+    display: inline-block;
+    line-height: 70px;
+    padding: 0 20px;
+}
+
+.logo {
+    color: aliceblue;
+    line-height: 70px;
+    padding: 0 20px;
+    font-weight: 600;
+    font-size: 23px;
+
+}
+
+.top ul a {
+    color: aliceblue;
+    font-size: 17px;
+    text-transform: capitalize;
+}
+
+.top ul a:hover {
+    border-bottom: 1px solid aliceblue;
+    padding-bottom: 4px;
+    transition: all .3s;
+} */
